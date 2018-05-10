@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.19",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FP_FirstPerson",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
